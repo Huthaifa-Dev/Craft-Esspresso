@@ -1,0 +1,112 @@
+Tablets
+
+.call-to-action
+{
+  background : #BF6956;
+  background : rgba(191, 105, 86, 1);
+  width : 307px;
+  height : 70px;
+  border-radius : 20px;
+  -moz-border-radius : 20px;
+  -webkit-border-radius : 20px;
+}
+
+.background-logo
+{
+  width : 416px;
+  height : 210px; 
+}
+
+.hero-bg-image
+{
+  width : 1400px;
+  height : 933px;
+}
+
+.hero-box
+{
+  background : #3F4659; 
+  background : rgba(63, 70, 89, 1);
+  opacity : 0.37;
+  width : 1088px;
+  height : 600px;
+  filter: alpha(opacity=37) progid:DXImageTransform.Microsoft.Alpha(opacity=37) ;
+}
+
+.navbar
+{
+  width : 899px;
+  height : 97px;
+}
+
+.navigation
+{
+  font-family : Heubeul;
+  font-size : 35px;
+  color : #3F4659;
+  color : rgb(63, 70, 89);
+}
+
+.brand-logo
+{
+  width : 124px;
+  height : 119px;
+}
+
+.flavors
+{
+  border-style : Solid;
+  border-color : #3F4659;
+  border-color : rgba(63, 70, 89, 1);
+  border-width : 2px;
+  width : 434px;
+  height : 333px;
+
+}
+
+.recipes
+{
+  border-style : Solid;
+  border-color : #3F4659;
+  border-color : rgba(63, 70, 89, 1);
+  border-width : 2px;
+  width : 433px;
+  height : 333px;
+}
+
+.workers
+{
+  border-style : Solid;
+  border-color : #3F4659;
+  border-color : rgba(63, 70, 89, 1);
+  border-width : 2px;
+  width : 433px;
+  height : 408px;
+}
+
+.subjects
+{
+  font-family : Heubeul;
+  font-size : 50px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+
+.descriptions
+{
+  font-family : Helvetica Now Display;
+  font-size : 35px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+
+.cup-image
+{
+  border-style : Solid;
+  border-color : #3F4659;
+  border-color : rgba(63, 70, 89, 1);
+  border-width : 2px;
+  width : 435px;
+  height : 331px;
+}
+

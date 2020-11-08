@@ -1,0 +1,115 @@
+Desktop
+
+.call-to-action
+{
+  background : #BF6956;
+  background : rgba(191, 105, 86, 1);
+  width : 307px;
+  height : 70px;
+  border-radius : 20px;
+  -moz-border-radius : 20px;
+  -webkit-border-radius : 20px;
+}
+
+.navigation 
+{
+  font-family : Heubeul;
+  font-size : 45px;
+  color : #3F4659;
+  color : rgb(63, 70, 89);
+}
+
+.navbar
+{
+  width : 1198px;
+  height : 97px;
+}
+
+.hero-bg-image
+{
+  background-image : url(image.png);
+  /*To create image referenced in CSS, use 'Export Selected CSS' command.*/
+  background-repeat : no-repeat;
+  width : 1400px;
+  height : 933px;
+}
+.hero-box
+{
+  background : #3F4659;
+  background : rgba(63, 70, 89, 1);
+  opacity : 0.37;
+  width : 1400px;
+  height : 600px;
+  filter: alpha(opacity=37) progid:DXImageTransform.Microsoft.Alpha(opacity=37) ;
+}
+
+.background-logo
+{
+  width : 416px;
+  height : 210px;
+}
+
+.brand-icon
+{
+  width : 124px;
+  height : 119px;
+}
+
+.subjects
+{
+  font-family : Heubeul;
+  font-size : 50px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+
+
+.descreption
+{
+  font-family : Helvetica Now Display;
+  font-size : 35px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+
+.flavors
+{
+  border-style : Solid;
+  border-color : #3F4659;
+  border-color : rgba(63, 70, 89, 1);
+  border-width : 2px;
+  width : 379px;
+  height : 333px;
+}
+
+
+.recipes
+{
+  border-style : Solid;
+  border-color : #3F4659;
+  border-color : rgba(63, 70, 89, 1);
+  border-width : 2px;
+  width : 379px;
+  height : 333px;
+}
+
+
+.workers
+{
+  border-style : Solid;
+  border-color : #3F4659;
+  border-color : rgba(63, 70, 89, 1);
+  border-width : 2px;
+  width : 379px;
+  height : 408px;
+}
+
+.cup
+{
+  border-style : Solid;
+  border-color : #3F4659;
+  border-color : rgba(63, 70, 89, 1);
+  border-width : 2px;
+  width : 378px;
+  height : 331px;
+}
